@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.11)
 
 project(retdec-idaplugin CXX C)
-set(RELEASE_VERSION "1.0")
+set(RELEASE_VERSION "1.1")
 
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
