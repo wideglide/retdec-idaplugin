@@ -552,7 +552,6 @@ void generateCallingConvention(
 
 		case CM_CC_INVALID:
 		case CM_CC_UNKNOWN:
-		case CM_CC_RESERVE4:
 		case CM_CC_RESERVE3:
 		default:             configCC.setIsUnknown(); break;
 	}
